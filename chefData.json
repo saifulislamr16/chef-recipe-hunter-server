@@ -1,12 +1,133 @@
 [
   {
+    "id": 4,
+    "name": "Salt Bae",
+    "image_url": "https://i.ibb.co/M10yP1Q/wp9191666-salt-bae-wallpapers.jpg",
+    "experience_years": 2,
+    "num_recipes": 20,
+    "likes": 300,
+    "description": "Salt Bae is an up-and-coming chef with a passion for creating unique flavors. Despite her 2 years of experience, she has already crafted 20 impressive recipes that have garnered her 300 loyal supporters.",
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+        "ingredients": [
+          "Pasta",
+          "Basil leaves",
+          "Pine nuts",
+          "Parmesan cheese",
+          "Garlic"
+        ],
+        "cooking_method": [
+          "Cook pasta according to package instructions.",
+          "In a food processor, combine basil leaves, pine nuts, Parmesan cheese, and garlic. Pulse until smooth.",
+          "Drain cooked pasta and toss with the pesto sauce.",
+          "Serve hot with additional Parmesan cheese on top."
+        ],
+        "rating": 4.7
+      },
+      {
+        "name": "Chicken Parmesan",
+        "ingredients": [
+          "Chicken breasts",
+          "Breadcrumbs",
+          "Eggs",
+          "Tomato sauce",
+          "Mozzarella cheese"
+        ],
+        "cooking_method": [
+          "Preheat the oven to 375°F.",
+          "Dip chicken breasts in beaten eggs, then coat with breadcrumbs.",
+          "In a skillet, heat oil over medium heat and cook chicken until golden brown on both sides.",
+          "Transfer chicken to a baking dish, top with tomato sauce and mozzarella cheese.",
+          "Bake in the oven until the cheese is melted and bubbly.",
+          "Serve hot with pasta or a side salad."
+        ],
+        "rating": 4.5
+      },
+      {
+        "name": "Berry Smoothie",
+        "ingredients": [
+          "Mixed berries",
+          "Yogurt",
+          "Banana",
+          "Honey",
+          "Milk"
+        ],
+        "cooking_method": [
+          "In a blender, combine mixed berries, yogurt, banana, honey, and milk.",
+          "Blend until smooth and creamy.",
+          "Pour into glasses and serve immediately.",
+          "Optional: Garnish with fresh berries or a sprinkle of chia seeds."
+        ],
+        "rating": 4.8
+      }
+    ]
+  },
+  {
     "id": 1,
     "name": "John Doe",
     "image_url": "https://i.ibb.co/z6yX9kW/pexels-pixabay-35666.jpg",
     "experience_years": 5,
     "num_recipes": 50,
     "likes": 1000,
-    "description": "John Doe is an experienced chef with 5 years of culinary expertise. He has created 50 delicious recipes and gained a significant following of 1000 food enthusiasts."
+    "description": "John Doe is an experienced chef with 5 years of culinary expertise. He has created 50 delicious recipes and gained a significant following of 1000 food enthusiasts.",
+    "recipes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Garlic",
+          "Tomato sauce",
+          "Spaghetti noodles"
+        ],
+        "cooking_method": [
+          "Heat oil in a pan.",
+          "Sauté onion and garlic.",
+          "Add ground beef and cook until browned.",
+          "Stir in tomato sauce.",
+          "Cook spaghetti noodles and serve with the sauce."
+        ],
+        "rating": 4.5
+      },
+      {
+        "name": "Chicken Stir-Fry",
+        "ingredients": [
+          "Chicken breast",
+          "Bell peppers",
+          "Broccoli",
+          "Soy sauce",
+          "Garlic"
+        ],
+        "cooking_method": [
+          "Heat oil in a pan.",
+          "Sauté garlic.",
+          "Add chicken and cook until no longer pink.",
+          "Stir in bell peppers and broccoli.",
+          "Season with soy sauce and cook until vegetables are tender."
+        ],
+        "rating": 4.2
+      },
+      {
+        "name": "Chocolate Chip Cookies",
+        "ingredients": [
+          "Flour",
+          "Butter",
+          "Brown sugar",
+          "Chocolate chips",
+          "Vanilla extract"
+        ],
+        "cooking_method": [
+          "Preheat the oven to 375°F.",
+          "In a bowl, cream together butter and brown sugar.",
+          "Add eggs and vanilla extract, and mix well.",
+          "Gradually add flour and stir until combined.",
+          "Fold in chocolate chips.",
+          "Drop spoonfuls of dough onto a baking sheet and bake for 10-12 minutes."
+        ],
+        "rating": 4.7
+      }
+    ]
   },
   {
     "id": 2,
@@ -15,7 +136,64 @@
     "experience_years": 3,
     "num_recipes": 30,
     "likes": 500,
-    "description": "Jane Smith is a talented chef who has been honing her skills for 3 years. She has curated a collection of 30 mouthwatering recipes, earning her 500 loyal fans."
+    "description": "Jane Smith is a talented chef who has been honing her skills for 3 years. She has curated a collection of 30 mouthwatering recipes, earning her 500 loyal fans.",
+    "recipes": [
+      {
+        "name": "Caesar Salad",
+        "ingredients": [
+          "Romaine lettuce",
+          "Parmesan cheese",
+          "Croutons",
+          "Caesar dressing",
+          "Lemon juice"
+        ],
+        "cooking_method": [
+          "Wash and dry the lettuce leaves.",
+          "In a large bowl, combine lettuce, croutons, and grated Parmesan cheese.",
+          "In a separate bowl, whisk together Caesar dressing and lemon juice.",
+          "Drizzle the dressing over the salad and toss to coat.",
+          "Serve immediately."
+        ],
+        "rating": 4.6
+      },
+      {
+        "name": "Mushroom Risotto",
+        "ingredients": [
+          "Arborio rice",
+          "Mushrooms",
+          "Onion",
+          "Vegetable broth",
+          "Parmesan cheese"
+        ],
+        "cooking_method": [
+          "In a large pan, sauté onions and mushrooms until tender.",
+          "Add Arborio rice and cook for a few minutes until translucent.",
+          "Gradually add vegetable broth, stirring continuously.",
+          "Cook until the rice is al dente and the broth is absorbed.",
+          "Stir in grated Parmesan cheese and serve hot."
+        ],
+        "rating": 4.8
+      },
+      {
+        "name": "Blueberry Pancakes",
+        "ingredients": [
+          "Flour",
+          "Milk",
+          "Eggs",
+          "Blueberries",
+          "Sugar"
+        ],
+        "cooking_method": [
+          "In a mixing bowl, whisk together flour, milk, eggs, and sugar until smooth.",
+          "Gently fold in blueberries.",
+          "Heat a lightly greased griddle or frying pan over medium heat.",
+          "Pour 1/4 cup of batter onto the griddle for each pancake.",
+          "Cook until bubbles form on the surface, then flip and cook the other side.",
+          "Serve hot with maple syrup."
+        ],
+        "rating": 4.5
+      }
+    ]
   },
   {
     "id": 3,
@@ -24,16 +202,65 @@
     "experience_years": 10,
     "num_recipes": 100,
     "likes": 2000,
-    "description": "Michael Johnson is a seasoned chef with a decade of culinary experience. He has crafted 100 delectable recipes and amassed a dedicated following of 2000 food lovers."
-  },
-  {
-    "id": 4,
-    "name": "Salt Bae",
-    "image_url": "https://i.ibb.co/M10yP1Q/wp9191666-salt-bae-wallpapers.jpg",
-    "experience_years": 2,
-    "num_recipes": 20,
-    "likes": 300,
-    "description": "Salt Bae is an up-and-coming chef with a passion for creating unique flavors. Despite her 2 years of experience, she has already crafted 20 impressive recipes that have garnered her 300 loyal supporters."
+    "description": "Michael Johnson is a seasoned chef with a decade of culinary experience. He has crafted 100 delectable recipes and amassed a dedicated following of 2000 food lovers.",
+    "recipes": [
+      {
+        "name": "Beef Stew",
+        "ingredients": [
+          "Beef chunks",
+          "Potatoes",
+          "Carrots",
+          "Onion",
+          "Beef broth"
+        ],
+        "cooking_method": [
+          "Brown beef chunks in a pot.",
+          "Add onions and cook until softened.",
+          "Add beef broth and simmer.",
+          "Add potatoes and carrots.",
+          "Cook until beef and vegetables are tender."
+        ],
+        "rating": 4.4
+      },
+      {
+        "name": "Lemon Garlic Shrimp",
+        "ingredients": [
+          "Shrimp",
+          "Lemon",
+          "Garlic",
+          "Butter",
+          "Parsley"
+        ],
+        "cooking_method": [
+          "In a skillet, melt butter over medium heat.",
+          "Add garlic and cook until fragrant.",
+          "Add shrimp and cook until pink.",
+          "Squeeze lemon juice over the shrimp.",
+          "Sprinkle with chopped parsley.",
+          "Serve hot with rice or pasta."
+        ],
+        "rating": 4.7
+      },
+      {
+        "name": "Grilled Steak",
+        "ingredients": [
+          "Steak",
+          "Salt",
+          "Black pepper",
+          "Olive oil",
+          "Rosemary"
+        ],
+        "cooking_method": [
+          "Preheat the grill to high heat.",
+          "Season the steak with salt, black pepper, and olive oil.",
+          "Place the steak on the grill and cook for a few minutes on each side.",
+          "Sprinkle with chopped rosemary.",
+          "Let the steak rest for a few minutes before slicing.",
+          "Serve hot."
+        ],
+        "rating": 4.9
+      }
+    ]
   },
   {
     "id": 5,
@@ -42,7 +269,65 @@
     "experience_years": 8,
     "num_recipes": 80,
     "likes": 1500,
-    "description": "David Wilson is an accomplished chef who has been perfecting his craft for 8 years. He has shared 80 exceptional recipes and attracted an enthusiastic fanbase of 1500 food enthusiasts."
+    "description": "David Wilson is an accomplished chef who has been perfecting his craft for 8 years. He has shared 80 exceptional recipes and attracted an enthusiastic fanbase of 1500 food enthusiasts.",
+    "recipes": [
+      {
+        "name": "Beef Tacos",
+        "ingredients": [
+          "Ground beef",
+          "Taco seasoning",
+          "Tortillas",
+          "Lettuce",
+          "Tomato"
+        ],
+        "cooking_method": [
+          "In a skillet, cook ground beef until browned.",
+          "Add taco seasoning and cook according to package instructions.",
+          "Warm tortillas in a separate skillet or microwave.",
+          "Assemble tacos by placing beef, lettuce, and tomato on each tortilla.",
+          "Fold and serve hot with your favorite toppings and salsa."
+        ],
+        "rating": 4.6
+      },
+      {
+        "name": "Garlic Roasted Potatoes",
+        "ingredients": [
+          "Potatoes",
+          "Olive oil",
+          "Garlic",
+          "Rosemary",
+          "Salt"
+        ],
+        "cooking_method": [
+          "Preheat the oven to 425°F.",
+          "Cut potatoes into wedges or cubes.",
+          "In a bowl, toss potatoes with olive oil, minced garlic, chopped rosemary, and salt.",
+          "Spread the potatoes in a single layer on a baking sheet.",
+          "Roast in the oven for 30-35 minutes or until golden and crispy.",
+          "Serve hot as a side dish or snack."
+        ],
+        "rating": 4.7
+      },
+      {
+        "name": "Banana Bread",
+        "ingredients": [
+          "Ripe bananas",
+          "Flour",
+          "Sugar",
+          "Butter",
+          "Eggs"
+        ],
+        "cooking_method": [
+          "Preheat the oven to 350°F.",
+          "In a bowl, mash ripe bananas with a fork.",
+          "Add flour, sugar, melted butter, and eggs. Mix until well combined.",
+          "Pour the batter into a greased loaf pan.",
+          "Bake for 50-60 minutes or until a toothpick inserted into the center comes out clean.",
+          "Let the banana bread cool before slicing and serving."
+        ],
+        "rating": 4.9
+      }
+    ]
   },
   {
     "id": 6,
@@ -51,7 +336,69 @@
     "experience_years": 4,
     "num_recipes": 40,
     "likes": 800,
-    "description": "Sarah Taylor is a talented chef known for her creativity in the kitchen. With 4 years of experience, she has developed a repertoire of 40 delightful recipes that have garnered her 800 dedicated followers."
+    "description": "Sarah Taylor is a talented chef known for her creativity in the kitchen. With 4 years of experience, she has developed a repertoire of 40 delightful recipes that have garnered her 800 dedicated followers.",
+    "recipes": [
+      {
+        "name": "Margherita Pizza",
+        "ingredients": [
+          "Pizza dough",
+          "Tomatoes",
+          "Fresh mozzarella",
+          "Basil leaves",
+          "Olive oil"
+        ],
+        "cooking_method": [
+          "Preheat the oven to the highest temperature (usually 500°F or 260°C).",
+          "Roll out the pizza dough into a round shape.",
+          "Spread a thin layer of olive oil over the dough.",
+          "Top with sliced tomatoes, fresh mozzarella, and basil leaves.",
+          "Bake in the preheated oven for 10-12 minutes or until the crust is golden and the cheese is melted.",
+          "Remove from the oven, let it cool for a few minutes, then slice and serve."
+        ],
+        "rating": 4.8
+      },
+      {
+        "name": "Chicken Noodle Soup",
+        "ingredients": [
+          "Chicken broth",
+          "Chicken breast",
+          "Carrots",
+          "Celery",
+          "Egg noodles"
+        ],
+        "cooking_method": [
+          "In a pot, bring chicken broth to a boil.",
+          "Add chicken breast, carrots, and celery.",
+          "Simmer until the chicken is cooked through and the vegetables are tender.",
+          "Remove the chicken, shred it, and return it to the pot.",
+          "Add egg noodles and cook until al dente.",
+          "Season with salt and pepper to taste.",
+          "Serve hot and enjoy."
+        ],
+        "rating": 4.6
+      },
+      {
+        "name": "Vanilla Cupcakes",
+        "ingredients": [
+          "Flour",
+          "Sugar",
+          "Butter",
+          "Eggs",
+          "Milk",
+          "Vanilla extract"
+        ],
+        "cooking_method": [
+          "Preheat the oven to 350°F.",
+          "In a bowl, cream together butter and sugar.",
+          "Add eggs, one at a time, beating well after each addition.",
+          "Add flour, milk, and vanilla extract. Mix until the batter is smooth.",
+          "Line a muffin pan with cupcake liners and fill each liner with the batter.",
+          "Bake for 18-20 minutes or until a toothpick inserted into the center comes out clean.",
+          "Let the cupcakes cool before frosting and decorating."
+        ],
+        "rating": 4.7
+      }
+    ]
   }
 ]
 
