@@ -15,6 +15,17 @@ app.get('/chefs', (req, res) =>{
     res.send(chefs)
 })
 
+app.get('/receipe/:id', (req, res)=>{
+    const search = req.params.id
+    data = chefs.find(chef => chef.id == search)
+    if(data){
+        res.send(data)
+    }else{
+        res.send({})
+    }
+    
+})
+
 app.listen(port, () => {
     console.log(`Chef Hunter API is listening on port: ${port}`)
 })
