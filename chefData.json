@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "image_url": "https://i.ibb.co/z6yX9kW/pexels-pixabay-35666.jpg",
+    "experience_years": 5,
+    "num_recipes": 50,
+    "likes": 1000,
+    "description": "John Doe is an experienced chef with 5 years of culinary expertise. He has created 50 delicious recipes and gained a significant following of 1000 food enthusiasts."
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "image_url": "https://i.ibb.co/pydqzXB/pexels-2102934.jpg",
+    "experience_years": 3,
+    "num_recipes": 30,
+    "likes": 500,
+    "description": "Jane Smith is a talented chef who has been honing her skills for 3 years. She has curated a collection of 30 mouthwatering recipes, earning her 500 loyal fans."
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "image_url": "https://i.ibb.co/gRfj8Qw/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+    "experience_years": 10,
+    "num_recipes": 100,
+    "likes": 2000,
+    "description": "Michael Johnson is a seasoned chef with a decade of culinary experience. He has crafted 100 delectable recipes and amassed a dedicated following of 2000 food lovers."
+  },
+  {
+    "id": 4,
+    "name": "Salt Bae",
+    "image_url": "https://i.ibb.co/M10yP1Q/wp9191666-salt-bae-wallpapers.jpg",
+    "experience_years": 2,
+    "num_recipes": 20,
+    "likes": 300,
+    "description": "Salt Bae is an up-and-coming chef with a passion for creating unique flavors. Despite her 2 years of experience, she has already crafted 20 impressive recipes that have garnered her 300 loyal supporters."
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "image_url": "https://i.ibb.co/M10yP1Q/wp9191666-salt-bae-wallpapers.jpg",
+    "experience_years": 8,
+    "num_recipes": 80,
+    "likes": 1500,
+    "description": "David Wilson is an accomplished chef who has been perfecting his craft for 8 years. He has shared 80 exceptional recipes and attracted an enthusiastic fanbase of 1500 food enthusiasts."
+  },
+  {
+    "id": 6,
+    "name": "Sarah Taylor",
+    "image_url": "https://i.ibb.co/pydqzXB/pexels-2102934.jpg",
+    "experience_years": 4,
+    "num_recipes": 40,
+    "likes": 800,
+    "description": "Sarah Taylor is a talented chef known for her creativity in the kitchen. With 4 years of experience, she has developed a repertoire of 40 delightful recipes that have garnered her 800 dedicated followers."
+  }
+]
+
